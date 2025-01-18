@@ -8,7 +8,7 @@ Installation:
 
 Prerequisites:    
 create a file in root "solanaPrivateKey.js" and load it with    
-``export const SOLANA_PRIVATE_KEY = [private_key_array``
+``export const SOLANA_PRIVATE_KEY = [private_key_array]``
      
 Run:  
 ``npx parcel index.html``
