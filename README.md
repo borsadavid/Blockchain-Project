@@ -3,7 +3,7 @@ Custom token transactions
 
 Installation guide:    
 
-**ETHEREUM BL**:
+**ETHEREUM BL**:    
 add MyToken.sol into an anvil project in ``/src``
     
 Run ``anvil``    
@@ -17,7 +17,7 @@ RC is the custom token (Ronaldo Coin)
 ![image](https://github.com/user-attachments/assets/1620e823-017d-425a-b91d-bcfb89f89f45)      
       
       
-**SOLANA BL**:
+**SOLANA BL**:    
 follow this: https://solana.com/docs/intro/installation     
 
 set to local-host: ``solana config set --url localhost``    
