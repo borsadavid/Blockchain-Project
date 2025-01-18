@@ -30,7 +30,7 @@ Mint some tokens to the account: ``spl-token mint <token-mint-address> 5000 <cre
 
 Connect to phantom wallet:   
 Add a wallet using the private key that you got on config following https://solana.com/docs/intro/installation ("my-solana-wallet.json")     
-Also use this private key on frontend!!!     
+Also use this private key on frontend config tutorial.    
 ![image](https://github.com/user-attachments/assets/5d2ca26f-e6b0-4fe1-a343-3deec72086c0)
 
 
