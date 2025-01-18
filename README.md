@@ -26,7 +26,7 @@ run blockchain locally: ``solana-test-validator``
     
 Create a token: ``spl-token create-token``
 Create an account for that token: ``spl-token create-account <token-mint-address>``     
-Mint some tokens to the account: ``spl-token mint <token-mint-address> 5000 <created-account-address>     
+Mint some tokens to the account: ``spl-token mint <token-mint-address> 5000 <created-account-address>``     
 
 Connect to phantom wallet:   
 Add a wallet using the private key that you got on config following https://solana.com/docs/intro/installation ("my-solana-wallet.json")     
